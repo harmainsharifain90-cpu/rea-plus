@@ -478,3 +478,23 @@ demos remain subject to vendor terms, including user, feature, automation, and
 output sharing restrictions. Cracked copies, stolen keys, unauthorized key
 sharing, and bypassing license restrictions are not authorized. This guidance
 does not amend MIT or third-party licenses.
+## REA-Plus: Beginner-Friendly Guide
+
+REA-Plus aims to make REA easier for beginners to understand and use.
+
+### Before you start
+
+- Use software and files you own or have permission to analyze.
+- Install a supported version of Node.js and npm.
+- Read the official installation guide before running commands.
+
+### Quick start
+
+1. Open the official [REA installation guide](docs/installation.md).
+2. Follow the setup instructions for your AI agent.
+3. Review the changes before approving them.
+4. Restart your AI agent and follow the official usage guide.
+
+### Need help?
+
+If setup does
